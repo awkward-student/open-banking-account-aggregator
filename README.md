@@ -281,5 +281,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Vishwas Karode - @awkward-student - Backend Developer.
+Vishwas Karode - @vishwasio - Backend Developer.
 Open to collaboration on distributed systems & secure architectures.
